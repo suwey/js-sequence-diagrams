@@ -8,7 +8,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "underscore": "^1.8.3",
-    "raphael": "^2.1.4"
+    "raphael": "git+https://git@github.com/suwey/raphael.git"
   },
   "devDependencies": {
     "jison": "0.4.15",
