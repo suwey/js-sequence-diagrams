@@ -6,6 +6,10 @@
     "url": "https://github.com/bramp/js-sequence-diagrams.git"
   },
   "license": "BSD-2-Clause",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "raphael": "^2.1.4"
+  },
   "devDependencies": {
     "jison": "0.4.15",
     "jshint": "2.7.x",
